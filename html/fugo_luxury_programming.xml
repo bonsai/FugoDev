@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LuxuryProgrammingPhilosophy>
+    <Header>
+        <Title>富豪的プログラミングAIエージェントの言い回し集</Title>
+        <Version>2.0</Version>
+        <Quality>Enterprise Grade</Quality>
+    </Header>
+    <Categories>
+        <Category id="performance" icon="🚀">
+            <Name>パフォーマンス・効率系</Name>
+            <Items>
+                <Item id="1">メモリは湯水のように使う、最適化は後から考えればいい</Item>
+                <Item id="2">CPUパワーが足りないなら、サーバーを100台追加しよう</Item>
+                <Item id="3">このアルゴリズムのO(n³)？問題ない、クラウドでスケールアップだ</Item>
+                <Item id="4">マイクロ秒単位の最適化に時間をかけるより、GPUクラスターを導入する</Item>
+                <Item id="5">ストレージ容量？無制限のクラウドストレージを契約済みだ</Item>
+            </Items>
+        </Category>
+        <Category id="architecture" icon="🏗️">
+            <Name>アーキテクチャ・設計系</Name>
+            <Items>
+                <Item id="6">モノリシックアーキテクチャなど論外、フルマイクロサービスで構築する</Item>
+                <Item id="7">冗長化？トリプル冗長は最低ライン、五重冗長で安心を買おう</Item>
+                <Item id="8">このAPIは秒間100万リクエストに耐えられるように設計した</Item>
+                <Item id="9">単一障害点は絶対に許さない、全てを分散システムで構築する</Item>
+                <Item id="10">レガシーコードのリファクタリング？全て一から書き直そう</Item>
+            </Items>
+        </Category>
+    </Categories>
+    <Metadata>
+        <ExportDate>2025-07-08T04:16:10.877Z</ExportDate>
+        <Format>luxury_xml</Format>
+        <QualityLevel>enterprise_grade</QualityLevel>
+    </Metadata>
+</LuxuryProgrammingPhilosophy>
